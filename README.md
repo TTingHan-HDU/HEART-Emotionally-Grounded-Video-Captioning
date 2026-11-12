@@ -16,7 +16,11 @@ We propose **HEART**, a unified framework that jointly models hierarchical visua
 
 We provide the **EmoStruct** dataset developed for emotionally grounded video captioning.
 
-Please refer to the dataset directory for details about the dataset, annotations, and usage instructions.
+The complete dataset is available for download:
+
+- **[Download EmoStruct Dataset (ZIP, 1.17 GB)](https://github.com/TTingHan-HDU/HEART-Emotionally-Grounded-Video-Captioning/releases/download/dataset-v1.0/dataset3.zip)**
+- [View Dataset v1.0 Release](https://github.com/TTingHan-HDU/HEART-Emotionally-Grounded-Video-Captioning/releases/tag/dataset-v1.0)
+
 
 **Current release:** This repository currently provides the dataset resources only. The source code for HEART, including training and inference implementations, will be released separately.
 
