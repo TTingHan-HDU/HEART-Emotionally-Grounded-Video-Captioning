@@ -22,7 +22,7 @@ The complete dataset is available for download:
 - [View Dataset v1.0 Release](https://github.com/TTingHan-HDU/HEART-Emotionally-Grounded-Video-Captioning/releases/tag/dataset-v1.0)
 
 
-**Current release:** This repository currently provides the dataset resources only. The source code for HEART, including training and inference implementations, will be released separately.
+**Current release:** This repository currently provides the dataset resources only. 
 
 ## Citation
 
